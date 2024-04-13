@@ -282,7 +282,7 @@ nav ul li a:hover::before{
 
 .java{
     animation: html 2s;
-    width: 60%;
+    width: 70%;
 }
 
 @keyframes html{
